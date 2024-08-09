@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AryanDey
 - 👀 I’m interested in Learning JS
-- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on nothin
 - 📫 How to reach me idk
 - 😄 Pronouns: he/him
